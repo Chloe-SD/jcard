@@ -2,6 +2,7 @@ backend:
   name: github
   repo: Chloe-SD/jcard
   branch: main
+  base_url: https://jcard.vercel.app/
 
 media_folder: "public/images"
 public_folder: "/images"
