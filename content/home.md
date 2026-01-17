@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Hey There!
 subtitle: Therapy for real people
 heroImage: /headshot.png
 ---
